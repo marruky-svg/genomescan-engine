@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names "CMakeFiles/genomescan-engine.dir/src/main.cpp.o" "CMakeFiles/genomescan-engine.dir/src/server/HttpServer.cpp.o" "CMakeFiles/genomescan-engine.dir/src/fasta/FastaParser.cpp.o" -o genomescan-engine
