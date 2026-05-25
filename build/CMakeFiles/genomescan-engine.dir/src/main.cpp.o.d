@@ -809,4 +809,7 @@ CMakeFiles/genomescan-engine.dir/src/main.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_uuid_t.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/gethostuuid.h \
   /Users/marruky/Desktop/genomescan-engine/src/fasta/FastaParser.hpp \
-  /Users/marruky/Desktop/genomescan-engine/src/analysis/AnalysisEngine.hpp
+  /Users/marruky/Desktop/genomescan-engine/src/analysis/AnalysisEngine.hpp \
+  /Users/marruky/Desktop/genomescan-engine/src/server/HttpParser.hpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/map \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tree

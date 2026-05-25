@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/genomescan-engine.dir/src/fasta/FastaParser.cpp.o.d"
   "CMakeFiles/genomescan-engine.dir/src/main.cpp.o"
   "CMakeFiles/genomescan-engine.dir/src/main.cpp.o.d"
+  "CMakeFiles/genomescan-engine.dir/src/server/HttpParser.cpp.o"
+  "CMakeFiles/genomescan-engine.dir/src/server/HttpParser.cpp.o.d"
   "CMakeFiles/genomescan-engine.dir/src/server/HttpServer.cpp.o"
   "CMakeFiles/genomescan-engine.dir/src/server/HttpServer.cpp.o.d"
   "genomescan-engine"
