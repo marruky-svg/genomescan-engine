@@ -11,6 +11,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/genomescan-engine.dir/src/server/HttpResponse.cpp.o.d"
   "CMakeFiles/genomescan-engine.dir/src/server/HttpServer.cpp.o"
   "CMakeFiles/genomescan-engine.dir/src/server/HttpServer.cpp.o.d"
+  "CMakeFiles/genomescan-engine.dir/src/server/Router.cpp.o"
+  "CMakeFiles/genomescan-engine.dir/src/server/Router.cpp.o.d"
   "genomescan-engine"
   "genomescan-engine.pdb"
 )

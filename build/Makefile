@@ -273,6 +273,30 @@ src/server/HttpServer.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/server/HttpServer.cpp.s
 .PHONY : src/server/HttpServer.cpp.s
 
+src/server/Router.o: src/server/Router.cpp.o
+.PHONY : src/server/Router.o
+
+# target to build an object file
+src/server/Router.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/server/Router.cpp.o
+.PHONY : src/server/Router.cpp.o
+
+src/server/Router.i: src/server/Router.cpp.i
+.PHONY : src/server/Router.i
+
+# target to preprocess a source file
+src/server/Router.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/server/Router.cpp.i
+.PHONY : src/server/Router.cpp.i
+
+src/server/Router.s: src/server/Router.cpp.s
+.PHONY : src/server/Router.s
+
+# target to generate assembly for a file
+src/server/Router.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/server/Router.cpp.s
+.PHONY : src/server/Router.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -300,6 +324,9 @@ help:
 	@echo "... src/server/HttpServer.o"
 	@echo "... src/server/HttpServer.i"
 	@echo "... src/server/HttpServer.s"
+	@echo "... src/server/Router.o"
+	@echo "... src/server/Router.i"
+	@echo "... src/server/Router.s"
 .PHONY : help
 
 

@@ -14,6 +14,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/marruky/Desktop/genomescan-engine/src/server/HttpParser.cpp" "CMakeFiles/genomescan-engine.dir/src/server/HttpParser.cpp.o" "gcc" "CMakeFiles/genomescan-engine.dir/src/server/HttpParser.cpp.o.d"
   "/Users/marruky/Desktop/genomescan-engine/src/server/HttpResponse.cpp" "CMakeFiles/genomescan-engine.dir/src/server/HttpResponse.cpp.o" "gcc" "CMakeFiles/genomescan-engine.dir/src/server/HttpResponse.cpp.o.d"
   "/Users/marruky/Desktop/genomescan-engine/src/server/HttpServer.cpp" "CMakeFiles/genomescan-engine.dir/src/server/HttpServer.cpp.o" "gcc" "CMakeFiles/genomescan-engine.dir/src/server/HttpServer.cpp.o.d"
+  "/Users/marruky/Desktop/genomescan-engine/src/server/Router.cpp" "CMakeFiles/genomescan-engine.dir/src/server/Router.cpp.o" "gcc" "CMakeFiles/genomescan-engine.dir/src/server/Router.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
