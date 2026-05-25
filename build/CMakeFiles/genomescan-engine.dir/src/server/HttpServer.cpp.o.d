@@ -810,4 +810,5 @@ CMakeFiles/genomescan-engine.dir/src/server/HttpServer.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/gethostuuid.h \
   /Users/marruky/Desktop/genomescan-engine/src/server/HttpParser.hpp \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/map \
-  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tree
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1/__tree \
+  /Users/marruky/Desktop/genomescan-engine/src/server/HttpResponse.hpp

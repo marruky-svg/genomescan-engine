@@ -3999,6 +3999,7 @@ CMakeFiles/genomescan-engine.dir/src/server/HttpServer.cpp.o: /Users/marruky/Des
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdint.h \
   /Users/marruky/Desktop/genomescan-engine/src/server/HttpParser.hpp \
+  /Users/marruky/Desktop/genomescan-engine/src/server/HttpResponse.hpp \
   /Users/marruky/Desktop/genomescan-engine/src/server/HttpServer.hpp
 
 
@@ -4191,6 +4192,8 @@ CMakeFiles/genomescan-engine.dir/src/server/HttpServer.cpp.o: /Users/marruky/Des
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_gid_t.h:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsfilcnt_t.h:
+
+/Users/marruky/Desktop/genomescan-engine/src/server/HttpResponse.hpp:
 
 /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/sys/_types/_fsblkcnt_t.h:
 

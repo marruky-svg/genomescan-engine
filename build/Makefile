@@ -225,6 +225,30 @@ src/server/HttpParser.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/server/HttpParser.cpp.s
 .PHONY : src/server/HttpParser.cpp.s
 
+src/server/HttpResponse.o: src/server/HttpResponse.cpp.o
+.PHONY : src/server/HttpResponse.o
+
+# target to build an object file
+src/server/HttpResponse.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/server/HttpResponse.cpp.o
+.PHONY : src/server/HttpResponse.cpp.o
+
+src/server/HttpResponse.i: src/server/HttpResponse.cpp.i
+.PHONY : src/server/HttpResponse.i
+
+# target to preprocess a source file
+src/server/HttpResponse.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/server/HttpResponse.cpp.i
+.PHONY : src/server/HttpResponse.cpp.i
+
+src/server/HttpResponse.s: src/server/HttpResponse.cpp.s
+.PHONY : src/server/HttpResponse.s
+
+# target to generate assembly for a file
+src/server/HttpResponse.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/server/HttpResponse.cpp.s
+.PHONY : src/server/HttpResponse.cpp.s
+
 src/server/HttpServer.o: src/server/HttpServer.cpp.o
 .PHONY : src/server/HttpServer.o
 
@@ -270,6 +294,9 @@ help:
 	@echo "... src/server/HttpParser.o"
 	@echo "... src/server/HttpParser.i"
 	@echo "... src/server/HttpParser.s"
+	@echo "... src/server/HttpResponse.o"
+	@echo "... src/server/HttpResponse.i"
+	@echo "... src/server/HttpResponse.s"
 	@echo "... src/server/HttpServer.o"
 	@echo "... src/server/HttpServer.i"
 	@echo "... src/server/HttpServer.s"

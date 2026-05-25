@@ -28,5 +28,11 @@
   "command": "/usr/bin/c++  -I/Users/marruky/Desktop/genomescan-engine/src -std=gnu++17 -arch arm64 -o CMakeFiles/genomescan-engine.dir/src/server/HttpParser.cpp.o -c /Users/marruky/Desktop/genomescan-engine/src/server/HttpParser.cpp",
   "file": "/Users/marruky/Desktop/genomescan-engine/src/server/HttpParser.cpp",
   "output": "CMakeFiles/genomescan-engine.dir/src/server/HttpParser.cpp.o"
+},
+{
+  "directory": "/Users/marruky/Desktop/genomescan-engine/build",
+  "command": "/usr/bin/c++  -I/Users/marruky/Desktop/genomescan-engine/src -std=gnu++17 -arch arm64 -o CMakeFiles/genomescan-engine.dir/src/server/HttpResponse.cpp.o -c /Users/marruky/Desktop/genomescan-engine/src/server/HttpResponse.cpp",
+  "file": "/Users/marruky/Desktop/genomescan-engine/src/server/HttpResponse.cpp",
+  "output": "CMakeFiles/genomescan-engine.dir/src/server/HttpResponse.cpp.o"
 }
 ]
