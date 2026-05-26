@@ -5537,6 +5537,7 @@ CMakeFiles/genomescan-engine.dir/src/server/HttpServer.cpp.o: /Users/marruky/Des
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stddef.h \
   /Library/Developer/CommandLineTools/usr/lib/clang/17/include/stdint.h \
   /Users/marruky/Desktop/genomescan-engine/src/analysis/AnalysisEngine.hpp \
+  /Users/marruky/Desktop/genomescan-engine/src/analysis/SmithWaterman.hpp \
   /Users/marruky/Desktop/genomescan-engine/src/fasta/FastaParser.hpp \
   /Users/marruky/Desktop/genomescan-engine/src/server/HttpParser.hpp \
   /Users/marruky/Desktop/genomescan-engine/src/server/HttpResponse.hpp \
