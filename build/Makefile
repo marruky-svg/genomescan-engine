@@ -177,6 +177,30 @@ src/analysis/SmithWaterman.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/analysis/SmithWaterman.cpp.s
 .PHONY : src/analysis/SmithWaterman.cpp.s
 
+src/client/HttpClient.o: src/client/HttpClient.cpp.o
+.PHONY : src/client/HttpClient.o
+
+# target to build an object file
+src/client/HttpClient.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/client/HttpClient.cpp.o
+.PHONY : src/client/HttpClient.cpp.o
+
+src/client/HttpClient.i: src/client/HttpClient.cpp.i
+.PHONY : src/client/HttpClient.i
+
+# target to preprocess a source file
+src/client/HttpClient.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/client/HttpClient.cpp.i
+.PHONY : src/client/HttpClient.cpp.i
+
+src/client/HttpClient.s: src/client/HttpClient.cpp.s
+.PHONY : src/client/HttpClient.s
+
+# target to generate assembly for a file
+src/client/HttpClient.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/client/HttpClient.cpp.s
+.PHONY : src/client/HttpClient.cpp.s
+
 src/fasta/FastaParser.o: src/fasta/FastaParser.cpp.o
 .PHONY : src/fasta/FastaParser.o
 
@@ -360,6 +384,9 @@ help:
 	@echo "... src/analysis/SmithWaterman.o"
 	@echo "... src/analysis/SmithWaterman.i"
 	@echo "... src/analysis/SmithWaterman.s"
+	@echo "... src/client/HttpClient.o"
+	@echo "... src/client/HttpClient.i"
+	@echo "... src/client/HttpClient.s"
 	@echo "... src/fasta/FastaParser.o"
 	@echo "... src/fasta/FastaParser.i"
 	@echo "... src/fasta/FastaParser.s"

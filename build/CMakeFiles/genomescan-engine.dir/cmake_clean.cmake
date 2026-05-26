@@ -3,6 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/genomescan-engine.dir/src/analysis/AnalysisEngine.cpp.o.d"
   "CMakeFiles/genomescan-engine.dir/src/analysis/SmithWaterman.cpp.o"
   "CMakeFiles/genomescan-engine.dir/src/analysis/SmithWaterman.cpp.o.d"
+  "CMakeFiles/genomescan-engine.dir/src/client/HttpClient.cpp.o"
+  "CMakeFiles/genomescan-engine.dir/src/client/HttpClient.cpp.o.d"
   "CMakeFiles/genomescan-engine.dir/src/fasta/FastaParser.cpp.o"
   "CMakeFiles/genomescan-engine.dir/src/fasta/FastaParser.cpp.o.d"
   "CMakeFiles/genomescan-engine.dir/src/main.cpp.o"
