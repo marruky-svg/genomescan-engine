@@ -153,6 +153,30 @@ src/analysis/AnalysisEngine.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/analysis/AnalysisEngine.cpp.s
 .PHONY : src/analysis/AnalysisEngine.cpp.s
 
+src/analysis/SmithWaterman.o: src/analysis/SmithWaterman.cpp.o
+.PHONY : src/analysis/SmithWaterman.o
+
+# target to build an object file
+src/analysis/SmithWaterman.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/analysis/SmithWaterman.cpp.o
+.PHONY : src/analysis/SmithWaterman.cpp.o
+
+src/analysis/SmithWaterman.i: src/analysis/SmithWaterman.cpp.i
+.PHONY : src/analysis/SmithWaterman.i
+
+# target to preprocess a source file
+src/analysis/SmithWaterman.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/analysis/SmithWaterman.cpp.i
+.PHONY : src/analysis/SmithWaterman.cpp.i
+
+src/analysis/SmithWaterman.s: src/analysis/SmithWaterman.cpp.s
+.PHONY : src/analysis/SmithWaterman.s
+
+# target to generate assembly for a file
+src/analysis/SmithWaterman.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/analysis/SmithWaterman.cpp.s
+.PHONY : src/analysis/SmithWaterman.cpp.s
+
 src/fasta/FastaParser.o: src/fasta/FastaParser.cpp.o
 .PHONY : src/fasta/FastaParser.o
 
@@ -309,6 +333,9 @@ help:
 	@echo "... src/analysis/AnalysisEngine.o"
 	@echo "... src/analysis/AnalysisEngine.i"
 	@echo "... src/analysis/AnalysisEngine.s"
+	@echo "... src/analysis/SmithWaterman.o"
+	@echo "... src/analysis/SmithWaterman.i"
+	@echo "... src/analysis/SmithWaterman.s"
 	@echo "... src/fasta/FastaParser.o"
 	@echo "... src/fasta/FastaParser.i"
 	@echo "... src/fasta/FastaParser.s"

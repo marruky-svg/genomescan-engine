@@ -40,5 +40,11 @@
   "command": "/usr/bin/c++  -I/Users/marruky/Desktop/genomescan-engine/src -std=gnu++17 -arch arm64 -o CMakeFiles/genomescan-engine.dir/src/server/Router.cpp.o -c /Users/marruky/Desktop/genomescan-engine/src/server/Router.cpp",
   "file": "/Users/marruky/Desktop/genomescan-engine/src/server/Router.cpp",
   "output": "CMakeFiles/genomescan-engine.dir/src/server/Router.cpp.o"
+},
+{
+  "directory": "/Users/marruky/Desktop/genomescan-engine/build",
+  "command": "/usr/bin/c++  -I/Users/marruky/Desktop/genomescan-engine/src -std=gnu++17 -arch arm64 -o CMakeFiles/genomescan-engine.dir/src/analysis/SmithWaterman.cpp.o -c /Users/marruky/Desktop/genomescan-engine/src/analysis/SmithWaterman.cpp",
+  "file": "/Users/marruky/Desktop/genomescan-engine/src/analysis/SmithWaterman.cpp",
+  "output": "CMakeFiles/genomescan-engine.dir/src/analysis/SmithWaterman.cpp.o"
 }
 ]
