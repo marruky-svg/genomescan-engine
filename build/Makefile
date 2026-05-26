@@ -321,6 +321,30 @@ src/server/Router.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/server/Router.cpp.s
 .PHONY : src/server/Router.cpp.s
 
+src/server/ThreadPool.o: src/server/ThreadPool.cpp.o
+.PHONY : src/server/ThreadPool.o
+
+# target to build an object file
+src/server/ThreadPool.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/server/ThreadPool.cpp.o
+.PHONY : src/server/ThreadPool.cpp.o
+
+src/server/ThreadPool.i: src/server/ThreadPool.cpp.i
+.PHONY : src/server/ThreadPool.i
+
+# target to preprocess a source file
+src/server/ThreadPool.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/server/ThreadPool.cpp.i
+.PHONY : src/server/ThreadPool.cpp.i
+
+src/server/ThreadPool.s: src/server/ThreadPool.cpp.s
+.PHONY : src/server/ThreadPool.s
+
+# target to generate assembly for a file
+src/server/ThreadPool.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/server/ThreadPool.cpp.s
+.PHONY : src/server/ThreadPool.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -354,6 +378,9 @@ help:
 	@echo "... src/server/Router.o"
 	@echo "... src/server/Router.i"
 	@echo "... src/server/Router.s"
+	@echo "... src/server/ThreadPool.o"
+	@echo "... src/server/ThreadPool.i"
+	@echo "... src/server/ThreadPool.s"
 .PHONY : help
 
 
