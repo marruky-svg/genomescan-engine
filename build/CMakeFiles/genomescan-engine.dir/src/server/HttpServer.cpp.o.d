@@ -830,4 +830,5 @@ CMakeFiles/genomescan-engine.dir/src/server/HttpServer.cpp.o: \
   /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/gethostuuid.h \
   /Users/marruky/Desktop/genomescan-engine/src/fasta/FastaParser.hpp \
   /Users/marruky/Desktop/genomescan-engine/src/analysis/AnalysisEngine.hpp \
-  /Users/marruky/Desktop/genomescan-engine/src/analysis/SmithWaterman.hpp
+  /Users/marruky/Desktop/genomescan-engine/src/analysis/SmithWaterman.hpp \
+  /Users/marruky/Desktop/genomescan-engine/src/analysis/Amr.hpp
