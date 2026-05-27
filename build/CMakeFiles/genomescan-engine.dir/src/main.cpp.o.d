@@ -831,4 +831,5 @@ CMakeFiles/genomescan-engine.dir/src/main.cpp.o: \
   /Users/marruky/Desktop/genomescan-engine/src/fasta/FastaParser.hpp \
   /Users/marruky/Desktop/genomescan-engine/src/analysis/AnalysisEngine.hpp \
   /Users/marruky/Desktop/genomescan-engine/src/analysis/SmithWaterman.hpp \
-  /Users/marruky/Desktop/genomescan-engine/src/client/HttpClient.hpp
+  /Users/marruky/Desktop/genomescan-engine/src/client/HttpClient.hpp \
+  /Users/marruky/Desktop/genomescan-engine/src/analysis/Amr.hpp

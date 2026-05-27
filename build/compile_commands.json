@@ -49,6 +49,12 @@
 },
 {
   "directory": "/Users/marruky/Desktop/genomescan-engine/build",
+  "command": "/usr/bin/c++  -I/Users/marruky/Desktop/genomescan-engine/src -std=gnu++17 -arch arm64 -o CMakeFiles/genomescan-engine.dir/src/analysis/Amr.cpp.o -c /Users/marruky/Desktop/genomescan-engine/src/analysis/Amr.cpp",
+  "file": "/Users/marruky/Desktop/genomescan-engine/src/analysis/Amr.cpp",
+  "output": "CMakeFiles/genomescan-engine.dir/src/analysis/Amr.cpp.o"
+},
+{
+  "directory": "/Users/marruky/Desktop/genomescan-engine/build",
   "command": "/usr/bin/c++  -I/Users/marruky/Desktop/genomescan-engine/src -std=gnu++17 -arch arm64 -o CMakeFiles/genomescan-engine.dir/src/server/ThreadPool.cpp.o -c /Users/marruky/Desktop/genomescan-engine/src/server/ThreadPool.cpp",
   "file": "/Users/marruky/Desktop/genomescan-engine/src/server/ThreadPool.cpp",
   "output": "CMakeFiles/genomescan-engine.dir/src/server/ThreadPool.cpp.o"

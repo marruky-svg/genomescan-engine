@@ -129,6 +129,30 @@ genomescan-engine/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/build
 .PHONY : genomescan-engine/fast
 
+src/analysis/Amr.o: src/analysis/Amr.cpp.o
+.PHONY : src/analysis/Amr.o
+
+# target to build an object file
+src/analysis/Amr.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/analysis/Amr.cpp.o
+.PHONY : src/analysis/Amr.cpp.o
+
+src/analysis/Amr.i: src/analysis/Amr.cpp.i
+.PHONY : src/analysis/Amr.i
+
+# target to preprocess a source file
+src/analysis/Amr.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/analysis/Amr.cpp.i
+.PHONY : src/analysis/Amr.cpp.i
+
+src/analysis/Amr.s: src/analysis/Amr.cpp.s
+.PHONY : src/analysis/Amr.s
+
+# target to generate assembly for a file
+src/analysis/Amr.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/genomescan-engine.dir/build.make CMakeFiles/genomescan-engine.dir/src/analysis/Amr.cpp.s
+.PHONY : src/analysis/Amr.cpp.s
+
 src/analysis/AnalysisEngine.o: src/analysis/AnalysisEngine.cpp.o
 .PHONY : src/analysis/AnalysisEngine.o
 
@@ -378,6 +402,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... genomescan-engine"
+	@echo "... src/analysis/Amr.o"
+	@echo "... src/analysis/Amr.i"
+	@echo "... src/analysis/Amr.s"
 	@echo "... src/analysis/AnalysisEngine.o"
 	@echo "... src/analysis/AnalysisEngine.i"
 	@echo "... src/analysis/AnalysisEngine.s"

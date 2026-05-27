@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/genomescan-engine.dir/src/analysis/Amr.cpp.o"
+  "CMakeFiles/genomescan-engine.dir/src/analysis/Amr.cpp.o.d"
   "CMakeFiles/genomescan-engine.dir/src/analysis/AnalysisEngine.cpp.o"
   "CMakeFiles/genomescan-engine.dir/src/analysis/AnalysisEngine.cpp.o.d"
   "CMakeFiles/genomescan-engine.dir/src/analysis/SmithWaterman.cpp.o"
