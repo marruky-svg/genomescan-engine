@@ -831,4 +831,6 @@ CMakeFiles/genomescan-engine.dir/src/server/HttpServer.cpp.o: \
   /Users/marruky/Desktop/genomescan-engine/src/fasta/FastaParser.hpp \
   /Users/marruky/Desktop/genomescan-engine/src/analysis/AnalysisEngine.hpp \
   /Users/marruky/Desktop/genomescan-engine/src/analysis/SmithWaterman.hpp \
-  /Users/marruky/Desktop/genomescan-engine/src/analysis/Amr.hpp
+  /Users/marruky/Desktop/genomescan-engine/src/analysis/Amr.hpp \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/arpa/inet.h \
+  /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/netdb.h
